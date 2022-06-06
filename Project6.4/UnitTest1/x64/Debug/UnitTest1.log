@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+     Создается библиотека D:\Study\ООП\Project6.4\x64\Debug\UnitTest1.lib и объект D:\Study\ООП\Project6.4\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Vector<int> &)" (??5@YAAEAV?$basic_istream@DU?$char_traits@D@std@@@std@@AEAV01@AEAV?$Vector@H@@@Z) в функции main.
+D:\Study\ООП\Project6.4\x64\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
